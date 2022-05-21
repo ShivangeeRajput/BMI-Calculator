@@ -10,8 +10,8 @@ Time spent: **20** hours spent in total
 
 The following **required** functionality is completed:
 
-* [x] User can enter their height in cm
 * [x] User can enter their weight in kg
+* [x] User can enter their height in cm
 * [x] User can click the CALCULATE Button
 * [x] MEssage will appear for user
 
