@@ -15,7 +15,12 @@ The following **required** functionality is completed:
 * [x] User can click the CALCULATE Button
 * [x] MEssage will appear for user
 
-<img src="https://user-images.githubusercontent.com/100294737/161737042-3c6bbe67-a61e-4ec4-a253-9672a2f17628.jpeg" height="450px"></img>
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+
+<copy><img src="https://user-images.githubusercontent.com/100294737/169688416-6c1639c3-4529-460e-bc03-8c6efca766ec.gif" height="450px"></img></copy>
 
 
 ## Notes
