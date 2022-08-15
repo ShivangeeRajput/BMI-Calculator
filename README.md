@@ -2,7 +2,7 @@
 
 ## *Shivangee Rajput*
 
-**BMI-Calculator ** An Android App to calculate Body Mass Index of a person .  
+**BMI-Calculator ** An Android App to calculate Body Mass Index of a person . The calculator will give you an idea of how your weight compares to common values. Body Mass Index (or BMI) is calculated as your weight (in kilograms) divided by the square of your height (in metres) or BMI = Kg/M2.
 
 Time spent: **20** hours spent in total
 
